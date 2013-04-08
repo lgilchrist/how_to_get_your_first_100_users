@@ -1,0 +1,19 @@
+GEM
+  specs:
+    addressable (2.3.3)
+    launchy (2.2.0)
+      addressable (~> 2.3)
+    mdpress (0.0.12)
+      launchy
+      redcarpet
+      trollop
+    rake (10.0.4)
+    redcarpet (2.2.2)
+    trollop (2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mdpress
+  rake
