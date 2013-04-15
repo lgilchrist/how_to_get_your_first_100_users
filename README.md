@@ -1,9 +1,10 @@
-# Pivotal Presentation Readme
+# Pivotal Presentation README
 
 This is a presentation template for Pivots who prefer to write presentations using command-line-based tools rather than keynote.
 
 ## To use
-1. Edit deck.md
-2. `$ rake`
-3. ???
-4. Profit!
+1. `$ bundle install`
+2. Start writing slides in `deck.md` using markdown.
+3. `$ rake`
+4. ???
+5. Profit!
