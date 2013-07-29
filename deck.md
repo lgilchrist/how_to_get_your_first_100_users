@@ -2,58 +2,38 @@
 
 ---
 
-This is a sample presentation.
+# My Name Is Lauren
 
 ---
 
-# Gettysburg Cemetery Dedication
-Abraham Lincoln
-11/19/1863
+# Community 101
 
 ---
 
-## Agenda
-- Met on battlefield (great)
-- Dedicate portion of field - fitting!
-- Unfinished work (great tasks)
+# Online Community Basics
+
+- A Primer About Successful Online Communities
+- The 11 Fundamental Laws of Online Communities
+- The Four Tenets Of Professional Community Managers
+
+---
+ 
+# Building An Online Community: How You Start With 0 Members
+
+- How Do You Build An Online Community?
+- 7 Contrary Truths About Online Communities
+- Don’t Start A Community For Any Of These Reasons
 
 ---
 
-## Not on Agenda
-1. Dedicate
-2. Consecrate
-3. Hallow (in narrow sense)
-4. Add or detract
-5. Note or remember what we say
+# Basics Community Building Principles
+
+- What Is An Online Community?
+- Different Types Of Communities
+- The 4 Fundamental Things A Community Provides Its Members
 
 ---
 
-## Review of key objectives and Critical Success factors
-- What makes nation unique
-	- Conceived in Liberty
-	- Men are equal
-	
-- Shared vision
-	- New birth of freedom
-	- Gov't of/for/by the people
-	
----
-
-# Organizational Overview
-
-![Org chart](images/chart.png)
-
----
-
-# Summary
-
-- New nation
-- Civil war
-- Dedicate field
-- dedicated to unfinished work
-- new birth of freedom
-- Goverment not perish
-
----
-
-With thanks to <http://norvig.com/Gettysburg/sld001.htm>
+# Types Of Communities And Activities Within Those Communities
+   ``
+- Visitors, Lurkers, And Members
