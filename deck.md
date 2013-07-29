@@ -35,5 +35,6 @@
 ---
 
 # Types Of Communities And Activities Within Those Communities
-   ``
+   
 - Visitors, Lurkers, And Members
+- hey change 
