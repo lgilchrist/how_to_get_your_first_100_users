@@ -1,41 +1,292 @@
-# Hi!
+# Hi! I'm Lauren
 
 ---
 
-# My Name Is Lauren
+# I've Built a Lot of Startups
+- Hack'n Jill 
+- MamasLatinas 
+- Yipit
+- Hoseanna
+- Urgent Career
 
 ---
 
-# Community 101
+# How To Get Your First 100 Users
+
+####Particularly ones that you've never met before
 
 ---
 
-# Online Community Basics
+# So! You Built Something Cool
 
-- A Primer About Successful Online Communities
-- The 11 Fundamental Laws of Online Communities
-- The Four Tenets Of Professional Community Managers
+- Awesome! 
+- How are people other than you going to find it?
+
+--- 
+
+# Or Maybe It's Not Built Yet
+- You still need users
+- Start finding them now
+
+----
+
+# 1: Name It
+
+- Get a googleable name
+- Landgrab: URL, Twitter, Facebook
 
 ---
+
+# How To Name It
+
+- [How We Named Our Startup With a Python Script](http://viniciusvacanti.com/2010/11/08/how-we-used-a-python-script-to-find-our-domain-name-yipit/)
+- Startup Name Generators (google these)
+- Don't stress. You can change it later
+
+--- 
+
+# 2: Value Proposition
+
+---
+
+# What's a Value Proposition?
+
+#### A value proposition answers the following questions for anyone that lands on your site: 
+- Why am I here? 
+- What can this do for me? 
+- Do I belong here?
+
+---
+
+# Stub It Out
  
-# Building An Online Community: How You Start With 0 Members
-
-- How Do You Build An Online Community?
-- 7 Contrary Truths About Online Communities
-- Don’t Start A Community For Any Of These Reasons
+For [target customers] who need [statement of need], [product name] is a [categorical noun] that does [key benefits].
+Unlike [primary competition], our product [statement of primary differentiation].
 
 ---
 
-# Basics Community Building Principles
 
-- What Is An Online Community?
-- Different Types Of Communities
-- The 4 Fundamental Things A Community Provides Its Members
+# Refine It
+- Remove adjectives and adverbs
+- Make it 10 words or fewer 
+- You can always change it later
+- This should be hard. It ties immediately into how you make money
+
+--- 
+
+# Great Value Props (Examples)
+
+- Remember Everything (Evernote)
+- Built Better Software, Together (Github)
+- Payments for Developers (Stripe)
 
 ---
 
-# Types Of Communities And Activities Within Those Communities
-   
-- Visitors, Lurkers, And Members
-- hey change 
-- hey another change
+# Bad Value Prop (Examples)
+
+- Give us 5 minutes and we'll supercharge your website (CloudFlare)
+
+
+---
+
+# Value Propositions Aren't
+
+- Slogans 
+- Videos 
+- Marketing Copy
+
+---
+
+# Stuck? Browse SkyMall
+- I'm serious
+- PorchPotty: Finally, your dog has a yard of his own
+- Swim to the music with Sony Waterproof Walkman MP3 Player
+- Now you can set an alarm without ever moving from the comfort of your bed
+
+--- 
+
+# Great!
+- You're ready to launch paradisevalleysaladcompany.com
+- Now what?
+
+---
+
+# 3: Build A Splash Page
+- URL
+- Name 
+- Value Proposition
+- Email Form
+
+---
+
+# Why Email?
+- You want to capture emails 
+- You want to build a list of potential salad dressing buyers
+
+--- 
+
+# 4: Thoughtful Auto-respond
+- Thanks for signing up! 
+- I'm Michael Bluth, founder of Paradise Valley Salad Dressing Co.
+- We're not quite ready for prime time yet
+- We expect to launch...
+- In the interim, please do this:
+
+---
+
+# Ask Them To Do This:
+- Answer a survey
+- Follow on twitter
+- Read a blog post 
+- Contact you
+
+--- 
+
+# More Advanced Asks: 
+- Tweet about you (give them a sample) 
+- Like you on Facebook
+- Sign up their friends to get first access to salad dressing
+- Custom salad dressing labels & recipes (think kickstarter)
+
+---
+
+# Time To Experiment with Paid Marketing
+- Paid marketing is the quickest way to determine if your value proposition resonates with strangers
+
+---
+
+# 5: Set Up Google Analytics
+- Capture number of unique visitors
+- Capture number of clicks on "submit" button of email form
+
+---
+
+# 6: Find Targeted Keywords
+- Use Google's Keyword Tool
+- Find specific, local keywords that relate to salad dressing (creamy salad dressing in southern california, not dressing)
+- Include typos
+
+--- 
+
+# 7: Pay For Marketing 
+- Write copy for 3 different ads
+- Best california dressing vs. creamiest california dressing vs. 100% blue paint free dressing 
+- Set the keywords to your splash page
+- Set a budget ($100 for 4 weeks)
+- Wait
+
+--- 
+
+# 8: Measure Your Results
+- Click through rate = # people who saw your ad / # of people who clicked through to your site
+- Conversion Rate = # of people who clicked submit / # of unique visitors
+- These will be very low to start
+- Don't get discouraged
+
+---
+
+# 9: Refine
+- Click through rate > 5% on one ad? Great! Focus your spend on the successful ads
+- Conversion rate > 5%? Great! Your value prop is resonating
+- Neither? Refine your ad copy or your value proposition
+
+---
+
+# Congrats! 
+- Your value proposition resonates with some people!
+
+---
+
+# Now Comes the Hard Part
+
+---
+
+# Ugly Fact:
+Email addresses != Paying Customers
+
+---
+
+# Ugly Fact:
+To get paying customers, you need to sell 
+
+---
+
+# How To Sell?
+
+---
+
+# Become an Expert In Your Value Proposition
+- 10 ways salad dressing cures cancer
+- How to make your own salad dressing 
+- How salad dressings save the world
+
+--- 
+
+# Better Examples
+- Code Climate -> Rails Security 
+- Customer.io -> Write Better Emails
+- KissMetrics -> Marketing Blog
+
+---
+
+# 11: Start Blogging
+- You're blogging, right?
+- Why we built this 
+- What it does
+- What we've learned
+- How it makes your life better / easier
+
+---
+
+# 12: Guest Blog
+- Write a guest post that showcases your expertise in your value prop
+- e.g. "Does Your Salad Dressing Contain Blue Paint"? 
+- Target a new audience
+- HuffPo, Fortune, Medium, BI are great for this
+- Link back to your splash page and blog in your author bio
+
+---
+
+# 13: Meet Journalists
+- Find 5-7 industry-specific bloggers
+- Follow them on FB/Twitter
+- Help them out (tips, data, introductions)
+- Build a relationship now 
+
+---
+
+# 14: Organize an Event
+- Pick a topic relevant to your value proposition
+- Invite people 
+- You're now a thought leader
+- You're now recognizable in your space
+
+---
+
+# 15: Reward Your First Users
+- Install Rapportive
+- Reach out to each signup personally 
+- Do some customer development (why do you buy salad dressing? what was the last one you bought?) 
+- You'll learn some great things from these conversations
+
+----
+
+# 16: Email Your Blog Posts
+- Stale email addresses = high spam complaints on launch
+- Your first users need to remember you exist
+- Email them at least 2x a month
+- Add value to their lives
+
+---
+
+# Next Step: IPO?
+
+---
+
+# Thanks!
+
+---
+
+# Questions?
+
+---
