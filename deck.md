@@ -106,7 +106,7 @@ Unlike [primary competition], our product [statement of primary differentiation]
 --- 
 
 # Great!
-- You're ready to launch paradisevalleysaladcompany.com
+- You're ready to launch suddenvalleysaladcompany.com
 - Now what?
 
 ---
@@ -127,10 +127,10 @@ Unlike [primary competition], our product [statement of primary differentiation]
 
 # 4: Thoughtful Auto-respond
 - Thanks for signing up! 
-- I'm Michael Bluth, founder of Paradise Valley Salad Dressing Co.
+- I'm Michael Bluth, founder of Sudden Valley Salad Dressing Company
 - We're not quite ready for prime time yet
 - We expect to launch...
-- In the interim, please do this:
+- In the interim, please do this
 
 ---
 
@@ -143,10 +143,10 @@ Unlike [primary competition], our product [statement of primary differentiation]
 --- 
 
 # More Advanced Asks: 
-- Tweet about you (give them a sample) 
+- Tweet about you (give them a sample tweet) 
 - Like you on Facebook
-- Sign up their friends to get first access to salad dressing
-- Custom salad dressing labels & recipes (think kickstarter)
+- Sign up their friends to get first access to exclusive salad dressing
+- Custom salad dressing labels & recipes (think like kickstarter)
 
 ---
 
@@ -163,7 +163,7 @@ Unlike [primary competition], our product [statement of primary differentiation]
 
 # 6: Find Targeted Keywords
 - Use Google's Keyword Tool
-- Find specific, local keywords that relate to salad dressing (creamy salad dressing in southern california, not dressing)
+- Find specific, local keywords that relate to sudden valley salad dressing (creamy salad dressing in southern california, not dressing)
 - Include typos
 
 --- 
@@ -188,7 +188,7 @@ Unlike [primary competition], our product [statement of primary differentiation]
 # 9: Refine
 - Click through rate > 5% on one ad? Great! Focus your spend on the successful ads
 - Conversion rate > 5%? Great! Your value prop is resonating
-- Neither? Refine your ad copy or your value proposition
+- Neither? Refine your ad copy or your value proposition. Rinse, repeat.
 
 ---
 
@@ -202,7 +202,7 @@ Unlike [primary competition], our product [statement of primary differentiation]
 ---
 
 # Ugly Fact:
-Email addresses != Paying Customers
+Email addresses != paying customers
 
 ---
 
@@ -216,7 +216,7 @@ To get paying customers, you need to sell
 ---
 
 # Become an Expert In Your Value Proposition
-- 10 ways salad dressing cures cancer
+- 10 ways to name your housing development like a salad dressing
 - How to make your own salad dressing 
 - How salad dressings save the world
 
@@ -250,23 +250,23 @@ To get paying customers, you need to sell
 # 13: Meet Journalists
 - Find 5-7 industry-specific bloggers
 - Follow them on FB/Twitter
-- Help them out (tips, data, introductions)
+- Compliment them earnestly ("I loved that you brought up this obscure reference to...)
+- Help them (tips, data, introductions)
 - Build a relationship now 
 
 ---
 
 # 14: Organize an Event
 - Pick a topic relevant to your value proposition
-- Invite people 
-- You're now a thought leader
-- You're now recognizable in your space
+- Invite relevant people to speak
+- Congratulations! You're now a thought leader and a recognized name in your space
 
 ---
 
 # 15: Reward Your First Users
 - Install Rapportive
-- Reach out to each signup personally 
-- Do some customer development (why do you buy salad dressing? what was the last one you bought?) 
+- Reach out to each of your first 100 signups personally 
+- Ask them questions (When do you usually buy salad dressing? When was the last time you bought salad dressing? Why did you buy that salad dressing?) hy do you buy salad dressing? what was the last one you bought?) 
 - You'll learn some great things from these conversations
 
 ----
@@ -287,6 +287,10 @@ To get paying customers, you need to sell
 
 ---
 
-# Questions?
+# More Resources
+
+
 
 ---
+
+# More R
